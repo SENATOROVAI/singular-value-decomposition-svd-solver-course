@@ -1,7 +1,12 @@
 # https://stepik.org/a/246258
 
-
 # Singular Value Decomposition (SVD) Solver Course
+
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Website](https://img.shields.io/badge/website-live-blue.svg)](https://senatorovai.github.io/Normal-equation-solver-multiple-linear-regression-course/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18818738.svg)](https://doi.org/10.5281/zenodo.18820271)
 
 > 🚀 **Professional course project for understanding and implementing Singular Value Decomposition from scratch in Python**
 
