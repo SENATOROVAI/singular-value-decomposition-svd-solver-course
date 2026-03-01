@@ -27,7 +27,7 @@ The project is optimized for:
 
 ---
 
-## 🎯 Keywords (SEO Optimized)
+## Keywords
 
 ```
 
