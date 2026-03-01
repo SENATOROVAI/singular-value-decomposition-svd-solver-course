@@ -23,13 +23,6 @@ This repository explains and implements **Singular Value Decomposition (SVD)** w
 - Applications in Machine Learning
 - Low-rank approximation
 
-The project is optimized for:
-
-- ✅ GitHub search
-- ✅ Google indexing
-- ✅ Data science portfolio
-- ✅ Academic visibility
-
 ---
 
 ## Keywords
